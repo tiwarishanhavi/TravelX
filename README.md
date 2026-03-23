@@ -1,4 +1,4 @@
-# RoadTripCompanion
+# TravelX
 
 A real-time location sharing and communication app for road trips.
 
