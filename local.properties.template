@@ -1,0 +1,12 @@
+# This file contains machine-specific properties for the build.
+# IMPORTANT: This file should NOT be committed to version control.
+# Copy this file to local.properties and fill in your actual API keys.
+
+# Google Maps API Key
+GOOGLE_MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY_HERE
+
+# Firebase API Key  
+FIREBASE_API_KEY=YOUR_FIREBASE_API_KEY_HERE
+
+# SDK location (Android Studio will add this automatically)
+sdk.dir=/Users/YOUR_USERNAME/Library/Android/sdk
